@@ -63,50 +63,50 @@ namespace Mario_s_Template
 
 
             ComboMenu.AddGroupLabel("Spells");
-            ComboMenu.CreateCheckBox(" - Use Q", "qUse");
-            ComboMenu.CreateCheckBox(" - Use W", "wUse");
-            ComboMenu.CreateCheckBox(" - Use E", "eUse");
-            ComboMenu.CreateCheckBox(" - Use R", "rUse");
+            ComboMenu.CreateCheckBox("Use Q", "qUse");
+            ComboMenu.CreateCheckBox("Use W", "wUse");
+            ComboMenu.CreateCheckBox("Use E", "eUse");
+            ComboMenu.CreateCheckBox("Use R", "rUse");
 
             HarassMenu.AddGroupLabel("Spells");
-            HarassMenu.CreateCheckBox(" - Use Q", "qUse");
-            HarassMenu.CreateCheckBox(" - Use W", "wUse");
-            HarassMenu.CreateCheckBox(" - Use E", "eUse");
-            HarassMenu.CreateCheckBox(" - Use R", "rUse");
+            HarassMenu.CreateCheckBox("Use Q", "qUse");
+            HarassMenu.CreateCheckBox("Use W", "wUse");
+            HarassMenu.CreateCheckBox("Use E", "eUse");
+            HarassMenu.CreateCheckBox("Use R", "rUse");
             HarassMenu.AddGroupLabel("Settings");
             HarassMenu.CreateSlider("Mana must be higher than [{0}%] to use Harass spells", "manaSlider", 30);
 
             AutoHarassMenu.AddGroupLabel("Spells");
-            AutoHarassMenu.CreateCheckBox(" - Use Q", "qUse");
-            AutoHarassMenu.CreateCheckBox(" - Use W", "wUse");
+            AutoHarassMenu.CreateCheckBox("Use Q", "qUse");
+            AutoHarassMenu.CreateCheckBox("Use W", "wUse");
             AutoHarassMenu.AddGroupLabel("Settings");
             AutoHarassMenu.CreateKeyBind("Enable/Disable AutoHrass", "autoHarassKey", 'Z', 'U');
             AutoHarassMenu.CreateSlider("Mana must be higher than [{0}%] to use AutoHarass spells", "manaSlider", 30);
 
             LaneClearMenu.AddGroupLabel("Spells");
-            LaneClearMenu.CreateCheckBox(" - Use Q", "qUse");
+            LaneClearMenu.CreateCheckBox("Use Q", "qUse");
             LaneClearMenu.AddGroupLabel("Settings");
             LaneClearMenu.CreateSlider("Mana must be higher than [{0}%] to use LaneClear spells", "manaSlider", 30);
 
             LasthitMenu.AddGroupLabel("Spells");
-            LasthitMenu.CreateCheckBox(" - Use Q", "qUse");
-            LasthitMenu.CreateCheckBox(" - Use W", "wUse");
-            LasthitMenu.CreateCheckBox(" - Use E", "eUse");
-            LasthitMenu.CreateCheckBox(" - Use R", "rUse");
+            LasthitMenu.CreateCheckBox("Use Q", "qUse");
+            LasthitMenu.CreateCheckBox("Use W", "wUse");
+            LasthitMenu.CreateCheckBox("Use E", "eUse");
+            LasthitMenu.CreateCheckBox("Use R", "rUse");
             LasthitMenu.AddGroupLabel("Settings");
             LasthitMenu.CreateSlider("Mana must be higher than [{0}%] to use LastHit spells", "manaSlider", 30);
 
             JungleClearMenu.AddGroupLabel("Spells");
-            JungleClearMenu.CreateCheckBox(" - Use Q", "qUse");
-            JungleClearMenu.CreateCheckBox(" - Use E", "eUse");
+            JungleClearMenu.CreateCheckBox("Use Q", "qUse");
+            JungleClearMenu.CreateCheckBox("Use E", "eUse");
             JungleClearMenu.AddGroupLabel("Settings");
             JungleClearMenu.CreateSlider("Mana must be higher than [{0}%] to use JungleClear spells", "manaSlider", 30);
 
             KillStealMenu.AddGroupLabel("Spells");
-            KillStealMenu.CreateCheckBox(" - Use Q", "qUse");
-            KillStealMenu.CreateCheckBox(" - Use W", "wUse");
-            KillStealMenu.CreateCheckBox(" - Use E", "eUse");
-            KillStealMenu.CreateCheckBox(" - Use R", "rUse");
+            KillStealMenu.CreateCheckBox("Use Q", "qUse");
+            KillStealMenu.CreateCheckBox("Use W", "wUse");
+            KillStealMenu.CreateCheckBox("Use E", "eUse");
+            KillStealMenu.CreateCheckBox("Use R", "rUse");
             KillStealMenu.AddGroupLabel("Settings");
             KillStealMenu.CreateSlider("Mana must be higher than [{0}%] to use Killsteal spells", "manaSlider", 30);
 
