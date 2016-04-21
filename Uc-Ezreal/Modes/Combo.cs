@@ -1,4 +1,4 @@
-﻿using EloBuddy;
+using EloBuddy;
 using EloBuddy.SDK;
 using Mario_s_Lib;
 using static Mario_s_Template.Menus;
@@ -21,6 +21,7 @@ namespace Mario_s_Template.Modes
             Q.TryToCast(target, ComboMenu);
             W.TryToCast(target, ComboMenu);
             E.TryToCast(target, ComboMenu);
+            R.TryToCast(target, ComboMenu);
         }
     }
 }
