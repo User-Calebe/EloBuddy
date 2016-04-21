@@ -130,15 +130,15 @@ namespace Mario_s_Template
             MiscMenu.CreateSlider("Delay slider", "delaySlider", 200, 150, 500);
 
             DrawingsMenu.AddGroupLabel("Setting");
-            DrawingsMenu.CreateCheckBox(" - Draw Spell`s range only if they are ready.", "readyDraw");
-            DrawingsMenu.CreateCheckBox(" - Draw damage indicator.", "damageDraw");
-            DrawingsMenu.CreateCheckBox(" - Draw damage indicator percent.", "perDraw");
-            DrawingsMenu.CreateCheckBox(" - Draw damage indicator statistics.", "statDraw", false);
+            DrawingsMenu.CreateCheckBox("Draw Spell`s range only if they are ready.", "readyDraw");
+            DrawingsMenu.CreateCheckBox("Draw damage indicator.", "damageDraw");
+            DrawingsMenu.CreateCheckBox("Draw damage indicator percent.", "perDraw");
+            DrawingsMenu.CreateCheckBox("Draw damage indicator statistics.", "statDraw", false);
             DrawingsMenu.AddGroupLabel("Spells");
-            DrawingsMenu.CreateCheckBox(" - Draw Q.", "qDraw");
-            DrawingsMenu.CreateCheckBox(" - Draw W.", "wDraw");
-            DrawingsMenu.CreateCheckBox(" - Draw E.", "eDraw");
-            DrawingsMenu.CreateCheckBox(" - Draw R.", "rDraw");
+            DrawingsMenu.CreateCheckBox("Draw Q.", "qDraw");
+            DrawingsMenu.CreateCheckBox("Draw W.", "wDraw");
+            DrawingsMenu.CreateCheckBox("Draw E.", "eDraw");
+            DrawingsMenu.CreateCheckBox("Draw R.", "rDraw");
             DrawingsMenu.AddGroupLabel("Drawings Color");
             QColorSlide = new ColorSlide(DrawingsMenu, "qColor", Color.Yellow, "Q Color:");
             WColorSlide = new ColorSlide(DrawingsMenu, "wColor", Color.Orange, "W Color:");
