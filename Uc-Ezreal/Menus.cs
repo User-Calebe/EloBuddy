@@ -66,6 +66,7 @@ namespace Mario_s_Template
             ComboMenu.CreateCheckBox(" - Use Q", "qUse");
             ComboMenu.CreateCheckBox(" - Use W", "wUse");
             ComboMenu.CreateCheckBox(" - Use E", "eUse");
+            ComboMenu.CreateCheckBox(" - Use R", "rUse");
 
             HarassMenu.AddGroupLabel("Spells");
             HarassMenu.CreateCheckBox(" - Use Q", "qUse");
