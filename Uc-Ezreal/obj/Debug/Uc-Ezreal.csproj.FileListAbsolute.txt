@@ -1,0 +1,17 @@
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\EloBuddy.dll
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\EloBuddy.SDK.dll
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\Mario`s Lib.dll
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\SharpDX.dll
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\Mario`s Lib.pdb
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\obj\Debug\Uc-Ezreal.csprojResolveAssemblyReference.cache
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\Uc-Ezreal.exe.config
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\Uc-Ezreal.exe
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\bin\Debug\Uc-Ezreal.pdb
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\obj\Debug\Uc-Ezreal.exe
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Mario`s Template\obj\Debug\Uc-Ezreal.pdb
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Uc-Ezreal\bin\Debug\Uc-Ezreal.exe.config
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Uc-Ezreal\obj\Debug\Uc-Ezreal.exe
+C:\Users\kaleb\Documents\Apps-Eb\Mario`s Template\Uc-Ezreal\obj\Debug\Uc-Ezreal.pdb
